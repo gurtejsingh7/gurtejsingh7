@@ -10,7 +10,7 @@ Passionate about cybersecurity and data analysis, I'm a driven Technical Analyst
 - Achieved an **80% reduction in compliance issues** by implementing stringent protocols.
 - Configured cutting-edge security solutions for threat detection.
 
-## 💻 Upcoming Projects (Ideas)
+## 💻 Featured Projects
 
 ### 1. Cybersecurity Dashboard
 - Develop a dashboard that visualises security metrics, threat intelligence, and incident response data. Use tools like Python, Power BI, or Tableau for data visualisation.
